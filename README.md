@@ -61,14 +61,4 @@ sudo dpkg -r flywrite
 
 If you installed from source, simply delete the flywrite folder.
 
-## License
 
-This project is licensed under the GNU General Public License v3.0.
-
-## Author
-
-Eldar52
-
-## Final note
-
-Why? Because this is a nothing. Nothing.
